@@ -1,0 +1,19 @@
+{
+  "devices": [
+    {
+      "name": "Pixel 6a",
+      "codename": "bluejay",
+      "brand": "Google",
+      "maintainer": {
+        "name": "Toufu",
+        "github": "toufune"
+      },
+      "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15/bluejay/WitAqua-15.0-20241214-bluejay-v2.0-OFFICIAL.zip/download",
+      "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15/bluejay/images/",
+      "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15/bluejay",
+      "installUrl": "https://wiki.witaqua.org/devices/bluejay", 
+      "latestAndroidVersion": "15",
+      "latestBuildDate": "2024-12-14"
+    }
+  ]
+}
