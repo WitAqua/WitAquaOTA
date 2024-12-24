@@ -11,9 +11,24 @@
       "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15/bluejay/WitAqua-15.0-20241214-bluejay-v2.0-OFFICIAL.zip/download",
       "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15/bluejay/images/",
       "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15/bluejay",
-      "installUrl": "https://wiki.witaqua.org/devices/bluejay", 
+      "installUrl": "https://wiki.witaqua.org/devices/bluejay",
       "latestAndroidVersion": "15",
       "latestBuildDate": "2024-12-14"
+    },
+    {
+      "name": "Xiaomi Mi 8",
+      "codename": "dipper",
+      "brand": "Xiaomi",
+      "maintainer": {
+        "name": "neroices",
+        "github": "neroices"
+      },
+      "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15/dipper/WitAqua-15.0-20241222-dipper-v2.0-OFFICIAL.zip/download",
+      "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15/dipper/images/",
+      "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15/dipper/",
+      "installUrl": "https://wiki.witaqua.org/devices/dipper",
+      "latestAndroidVersion": "15",
+      "latestBuildDate": "2024-12-22"
     }
   ]
 }
