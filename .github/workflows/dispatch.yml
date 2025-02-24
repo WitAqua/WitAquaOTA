@@ -1,0 +1,18 @@
+name: www dispatch
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: "${{ secrets.PAT_TOKEN }}"
+          repository: WitAqua/www
+          event-type: dpatch
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
