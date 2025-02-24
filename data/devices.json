@@ -53,6 +53,24 @@
       "filename": "WitAqua-15.1-20250223-lavender-v2.1-OFFICIAL.zip",
       "md5": "57475669351b14c5129c94da7f498e3b",
       "size": 1171064849
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite 5G",
+      "codename": "renoir",
+      "brand": "Xiaomi",
+      "maintainer": {
+        "name": "Maitani-Sakura",
+        "github": "Maitani-Sakura"
+      },
+      "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15.1/renoir/WitAqua-15.1-20250223-renoir-v2.1-OFFICIAL.zip/download",
+      "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15.1/renoir/images/",
+      "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15.1/renoir/",
+      "installUrl": "https://wiki.witaqua.org/devices/renoir",
+      "latestAndroidVersion": "15.1",
+      "datetime": 1740306463,
+      "filename": "WitAqua-15.1-20250223-renoir-v2.1-OFFICIAL.zip",
+      "md5": "ce7a0b5a434abe5041fba117bd734b3d",
+      "size": 1459574124
     }
   ]
 }
