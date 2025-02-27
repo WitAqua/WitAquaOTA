@@ -71,6 +71,24 @@
       "filename": "WitAqua-15.1-20250223-renoir-v2.1-OFFICIAL.zip",
       "md5": "ce7a0b5a434abe5041fba117bd734b3d",
       "size": 1459574124
+    },
+    {
+      "name": "Pixel 7",
+      "codename": "panther",
+      "brand": "Google",
+      "maintainer": {
+        "name": "Ruron",
+        "github": "RuronKun3141"
+      },
+      "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15.1/panther/WitAqua-15.1-20250227-panther-v2.1-OFFICIAL.zip/download",
+      "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15.1/panther/images/",
+      "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15.1/panther",
+      "installUrl": "https://wiki.witaqua.org/devices/panther",
+      "latestAndroidVersion": "15.1",
+      "datetime": 1740636347,
+      "filename": "WitAqua-15.1-20250227-panther-v2.1-OFFICIAL.zip",
+      "md5": "86be0c9c18564b878eef6ed8fa886566",
+      "size": 1461948883
     }
   ]
 }
