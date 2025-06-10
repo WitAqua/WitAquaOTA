@@ -1,0 +1,16 @@
+{
+    "response": [
+        {
+            "maintainer": "",
+            "oem": "",
+            "device": "",
+            "filename": "WitAqua-15.2-20250610-nx_tab-v2.2-OFFICIAL.zip",
+            "download": "https://sourceforge.net/projects/witaqua/files/15.2/nx_tab/WitAqua-15.2-20250610-nx_tab-v2.2-OFFICIAL.zip/download",
+            "timestamp": 1749529773,
+            "md5": "8d4555476e6937cf2e0f5a344d8230c0",
+            "sha256": "a13815d09bf49a7648e824abc4ddcaaf5595ce6f76224de472500cd67eaa4504",
+            "size": 1071068384,
+            "version": "2.2"
+        }
+    ]
+}
