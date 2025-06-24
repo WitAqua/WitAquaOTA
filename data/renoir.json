@@ -1,0 +1,16 @@
+{
+    "response": [
+        {
+            "maintainer": "",
+            "oem": "",
+            "device": "",
+            "filename": "WitAqua-15.2-20250624-renoir-v2.2-OFFICIAL.zip",
+            "download": "https://sourceforge.net/projects/witaqua/files/15.2/renoir/WitAqua-15.2-20250624-renoir-v2.2-OFFICIAL.zip/download",
+            "timestamp": 1750750519,
+            "md5": "026fcd97afe4ecb223545f4866dc0230",
+            "sha256": "c2da2d36d9ce1f296b056259bfe01ec30d9a0e18c940257c19e55f7083fdb09c",
+            "size": 1593887467,
+            "version": "2.2"
+        }
+    ]
+}
