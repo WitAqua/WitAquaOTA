@@ -4,12 +4,12 @@
             "maintainer": "Toufu",
             "oem": "Google",
             "device": "Pixel 6a",
-            "filename": "WitAqua-15.2-20250609-bluejay-v2.2-OFFICIAL.zip",
-            "download": "https://sourceforge.net/projects/witaqua/files/15.2/bluejay/WitAqua-15.2-20250609-bluejay-v2.2-OFFICIAL.zip/download",
-            "timestamp": 1749400363,
-            "md5": "f261f049f169570d8c366605a7647da0",
-            "sha256": "4333f826977cd9b9c9434fc1d7d3cc76e966d1ae899a2720824bf0287b340716",
-            "size": 1449323595,
+            "filename": "WitAqua-15.2-20250701-bluejay-v2.2-OFFICIAL.zip",
+            "download": "https://sourceforge.net/projects/witaqua/files/15.2/bluejay/WitAqua-15.2-20250701-bluejay-v2.2-OFFICIAL.zip/download",
+            "timestamp": 1751328358,
+            "md5": "cc1c44ba3fc9e95c98a8c92e91743b8a",
+            "sha256": "ad12505aafbc3058977146c159c266d0cb1afc9ae2ecd564647e24a59c9fa771",
+            "size": 1455026574,
             "version": "2.2"
         }
     ]
